@@ -12,7 +12,7 @@ https://github.com/AmeddahAchraf/Progress-Bar-SwifttUI
 
 ## Demo:
 
-![demo](/Users/funway/project/app/study/ProgressView/demo.gif)
+![demo](./demo.gif)
 
 
 
